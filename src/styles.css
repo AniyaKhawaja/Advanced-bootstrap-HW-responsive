@@ -116,24 +116,25 @@
   
   @media (max-width: 375px) {
     h1 {
-      font-size: 48px !important;
+      font-size: 48px;
     }
     h2 {
-      font-size: 32px !important;
+      font-size: 32px;
     }
     .app {
-      display: flex !important;
-      justify-content: center !important;
-      font-size: 32px !important;
+      display: flex;
+      justify-content: center;
+      font-size: 32px;
     }
     .reach {
-      font-size: 30px !important;
+      font-size: 30px;
     }
     .email-link {
-      font-size: 25px !important;
+      font-size: 25px;
     }
     .launch-text {
       padding: 25px 70px;
     }
   }
+
   
